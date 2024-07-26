@@ -11,6 +11,7 @@
 useSeoMeta({
   title: "开心超人",
   description: "一个超级开心的人",
+  keywords: "开心,超人 ，空中超人",
 });
 </script>
 
